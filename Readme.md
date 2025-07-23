@@ -1,3 +1,6 @@
+Here I am working on reading the free run timecode.... I have now managed to extract the length of the clip
+Tu pracuję nad odczytaniem free run timecode... obecnie udało mi się wydobyć długość klipu
+
 <code>$ python cpi_pts_timecode.py
 Podaj ścieżkę do katalogu z plikami CPI: PanasonicAG-AC90/PRIVATE/AVCHD/BDMV/CLIPINF/
 00076.CPI: PTS=65792  Timecode=00:00:00:36  HEX=00 01 01 00
