@@ -1,4 +1,4 @@
-<.code>
+<code>
 $ python cpi_pts_timecode.py PanasonicAG-AC90/PRIVATE/AVCHD/BDMV/CLIPINF/00079.CPI
 Podaj ścieżkę do katalogu z plikami CPI: PanasonicAG-AC90/PRIVATE/AVCHD/BDMV/CLIPINF/
 00076.CPI: PTS=65792  Timecode=00:00:00:36  HEX=00 01 01 00
